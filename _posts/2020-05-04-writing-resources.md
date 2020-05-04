@@ -1,5 +1,3 @@
-# Writing resources
-
 Effective and clear communication is the goal of academics and non-academics alike. I used to have a mentality that as long as I had something to say and my writing was at all intelligible than that was sufficient for communication. It is not. The goal of communication is the transmission of an idea to be **understood** by a reader. The resources below have been collected as references for writers. 
 
 ### Academic writing
@@ -26,7 +24,7 @@ Perhaps the most concise piece of text about writing in general comes from Halmo
 >*"The basic problem in writing mathematics is the same as in writing biology, writing a novel, or writing directions for assembling a harpsichord: the problem is to communicate an idea. To do so, and to do it clearly, you must have something to say, and you must have someone to say it to, you must organize what you want to say, and you must arrange it in the order you want it said in, you must write it, rewrite it, and re-rewrite it several times, and you must be willing to think hard about and work hard on mechanical details such as diction, notation, and punctuation. That’s all there is to it."*
 
 
-[1] Mensh B, Kording K. Ten simple rules for structuring papers. PLoS computational biology. 2017 Sep;13(9).
-[2] Swales J. Genre analysis: English in academic and research settings. Cambridge University Press; 1990 Nov 8.
-[3] Halmos PR. How to write mathematics. Enseign. Math. 1970;16(2):123-52.
-[4] Ehrenberg AS. Writing technical papers or reports. The American Statistician. 1982 Nov 1;36(4):326-9.
+[1] Mensh B, Kording K. Ten simple rules for structuring papers. PLoS computational biology. 2017 Sep;13(9).\
+[2] Swales J. Genre analysis: English in academic and research settings. Cambridge University Press; 1990 Nov 8.\
+[3] Halmos PR. How to write mathematics. Enseign. Math. 1970;16(2):123-52.\
+[4] Ehrenberg AS. Writing technical papers or reports. The American Statistician. 1982 Nov 1;36(4):326-9.\
