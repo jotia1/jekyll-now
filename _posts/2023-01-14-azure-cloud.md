@@ -3,7 +3,7 @@ layout: post
 title: Microsoft Azure Data Engineer Associate Certificate
 ---
 
-In this post I detail my thoughts on the Azure Data Engineer certificate, Microsoft learn as a study resource and exam itself. 
+An outline of my thoughts on the Azure Data Engineer certificate, Microsoft learn as a study resource, and the exam itself. 
 
 Recently I've been getting more interested in the potential of cloud services for data processing and machine learning.
 Previously I had worked with on-premises High Performance Computing (HPC) infrastructure fairly extensively because it was a service I had access to during my PhD and my job.
